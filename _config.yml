@@ -1,0 +1,28 @@
+name: The lake on fire
+favicon: null
+layout_spectrum: 0.3701243819668889
+typography_spectrum: 0.4266548827290535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.29695094912312925
+  lightness: 0.03113873559050262
+  saturation: 0.8834548536688089
+  rhythmicContrast: 0.35208305274136364
+purpose: []
