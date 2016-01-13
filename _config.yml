@@ -1,6 +1,6 @@
 name: The lake on fire
 favicon: null
-layout_spectrum: 0.25862
+layout_spectrum: 1
 typography_spectrum: 1
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#040e0f'
-    - '#444444'
-    - '#1f1812'
-    - '#442d1a'
+    - '#010302'
+    - '#22505b'
+    - '#ffffff'
+    - '#b4a189'
+    - '#f2c184'
   brandStrength: 0.8125
   lightness: 0
-  saturation: 0.9375
-  rhythmicContrast: 0.25
+  saturation: 0.875
+  rhythmicContrast: 0
 purpose: []
