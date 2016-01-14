@@ -1,6 +1,6 @@
 name: The lake on fire
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.98644
 typography_spectrum: 1
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#ffffff'
     - '#b4a189'
     - '#f2c184'
-  brandStrength: 0.8125
+  brandStrength: 0.6875
   lightness: 0
   saturation: 0.875
   rhythmicContrast: 0
